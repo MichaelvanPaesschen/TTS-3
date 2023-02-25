@@ -1,3 +1,4 @@
+torch
 tqdm
 rotary_embedding_torch
 transformers
